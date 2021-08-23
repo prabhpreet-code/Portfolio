@@ -1,7 +1,7 @@
 
 /* background image */
 #back-image{
-  background-image: url(/general/macbook_mouse.jpg);
+  background-image: url(https://github.com/prabhpreet-code/Portfolio/blob/main/general/macbook_mouse.jpg);
   height: 65vh;
   opacity: 0.8;
   background-size: cover;
