@@ -820,6 +820,17 @@ color: #2857a4;
     .experience-details{
       width: 90%;
     }
+
+    .card-2 {
+      margin-left: -6%;
+      width: 73%;
+      text-align: justify;
+  }
+
+  .education-card {
+    width: 95%;
+    margin-top: 55px;
+}
 }
 
 @media screen and (max-width:290px){
@@ -837,5 +848,16 @@ color: #2857a4;
     left: -3%;
     height: 74%;
     top: 4%;
+}
+
+.card-2 {
+  margin-left: -6%;
+  width: 73%;
+  text-align: justify;
+}
+
+.education-card {
+  width: 95%;
+  margin-top: 55px;
 }
 }
